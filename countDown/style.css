@@ -1,0 +1,24 @@
+* {
+    background-color: skyblue;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+p {
+    height: 100px;
+    width: 600px;
+    background-image: linear-gradient(#16bffd, #cb3066);
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 0px;
+    line-height: 100px;
+}
